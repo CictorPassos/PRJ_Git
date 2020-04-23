@@ -1,3 +1,4 @@
 RA: 920134033
 Nome: Victor Hugo Julião Passos
-Curso: Sistemas de Informação
+Data de nascimento: 01/01/2001
+Email: victor.jpassos@hotmail.com
